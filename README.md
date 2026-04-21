@@ -3,6 +3,8 @@
 
 Si-Woo Kim, MinJu Jeon, Ye-Chan Kim, Soeun Lee, Taewhan Kim, Dong-Jin Kim
 
+![poster](./asset/ICCVW25_SynC_poster.png)
+
 Official implementation of **SynC**.
 
 ---
